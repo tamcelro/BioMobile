@@ -1,2 +1,2 @@
-# PiLock
+# SmartphoneDoorLock
 Senior Project
